@@ -1,5 +1,5 @@
 {
-  "name": "ZeroPoint",
+  "name": "11tynetlify",
   "version": "1.0.2",
   "description": "",
   "main": "index.html",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+project_urlname"
   },
-  "author": "MWDelaney",
+  "author": "GeauxWeisbeck4",
   "license": "MIT",
   "dependencies": {
   },
